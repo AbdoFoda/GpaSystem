@@ -159,7 +159,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="console&#9;ACTION&#9;IdeScriptingConsole&#10;jdbc&#9;PSI&#9;JAVA://java.sql.Driver#jdbcCompliant&#10;pro&#9;ACTION&#9;ActivateProjectToolWindow&#10;navig&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="term&#9;ACTION&#9;ActivateTerminalToolWindow&#10;console&#9;ACTION&#9;IdeScriptingConsole&#10;jdbc&#9;PSI&#9;JAVA://java.sql.Driver#jdbcCompliant&#10;pro&#9;ACTION&#9;ActivateProjectToolWindow&#10;navig&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
